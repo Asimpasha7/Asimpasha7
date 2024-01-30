@@ -5,7 +5,7 @@ I'm a passionate Full Stack developer based in Bengaluru. I love building web ap
 ## About Me
 
 - 🌐 I'm currently based in Bengaluru.
-- 💻 I specialize in Full stack using HTML, CSS, and JavaScript, React, PHP, Laravel, SQL.
+- 💻 I specialize in Full stack using HTML, CSS, Bootstrap, JavaScript and JQuery, React, PHP, Laravel, SQL.
 - 🚀 I'm always learning and exploring new technologies to enhance my skills.
 
 ## Connect with Me
